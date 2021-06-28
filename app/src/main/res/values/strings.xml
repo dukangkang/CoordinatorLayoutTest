@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoordinatorDemo</string>
+
+    <string name="behavior_main_content">com.example.myapplication.behavior.MainContentBehavior</string>
+    <string name="behavior_main_header">com.example.myapplication.behavior.MainHeaderBehavior</string>
+    <string name="behavior_main_title">com.example.myapplication.behavior.MainTitleBehavior</string>
+    <string name="behavior_main_tab">com.example.myapplication.behavior.MainTabBehavior</string>
+</resources>
